@@ -1,4 +1,4 @@
-# ✨ Todo Notebook Glitter App 📓🌸
+# ✨ Todo Notebook Glitter App 📓
 
 A magical, glittery notebook-style calendar todo app built with **Next.js**, **Mantine**, and **Tailwind CSS**.  
 Plan your dreams, write your sparkly tasks, and stay cute while doing it 💖
